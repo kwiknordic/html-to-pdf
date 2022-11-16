@@ -1,0 +1,12 @@
+{
+  "name": "pdf-cv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "author": "Mervin Bratic",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^19.2.2"
+  }
+}
