@@ -1,8 +1,8 @@
-#CV from HTML to PDF
+# CV from HTML to PDF
 
 Live version hittas på:
 
-#Om projektet
+# Om projektet
 
 Jag behövde ett CV vid jobbansökan och ansåg att ville då skapa hela CV:et med kod.
 
