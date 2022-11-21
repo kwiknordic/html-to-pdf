@@ -11,6 +11,9 @@ html, body {
   width:  210mm;
   height: 297mm;
   border: 1px solid white;
+
+  /* uncomment if you want to see the paper-edge in your browser */
+  /* border: 1px solid red; */
 }
 
 header {
@@ -56,6 +59,10 @@ main {
   gap: 3rem;
 }
 
+.indent {
+  margin-left: 1rem;
+}
+
 .justify-text {
   text-align: justify;
 }
@@ -65,7 +72,7 @@ main {
 }
 
 .section ul {
-  margin-left: 1rem;
+  margin-inline: 1rem;
 }
 
 hr {
@@ -76,4 +83,9 @@ hr {
 em {
   font-size: 0.9rem;
   opacity: 0.7;
+}
+
+a, a:visited {
+  color: unset;
+  text-decoration: none;
 }
