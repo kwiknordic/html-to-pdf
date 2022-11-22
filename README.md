@@ -4,7 +4,7 @@ Live version hittas på: https://kwikapp.netlify.app/assets/CV-Mervin-Bratic.pdf
 
 # Om projektet
 
-Jag behövde ett CV vid jobbansökan och ansåg att ville då skapa hela CV:et med kod.
+Jag behövde ett aktuellt CV för framtida jobbansökan och kom till insikt att jag ville skapa layouten med CSS, och fylla innehållet med HTML. Lösningen är byggd med Node.js och använder npm-paketet Puppeteer för konverteringen till PDF.
 
 # Höjdpunkter
 - Puppeteer-bibliotektet för att skapa PDF:en i Node.js
