@@ -1,6 +1,6 @@
 # CV from HTML to PDF
 
-Live version hittas på:
+Live version hittas på: https://kwikapp.netlify.app/assets/CV-Mervin-Bratic.pdf
 
 # Om projektet
 
