@@ -14,4 +14,5 @@ Jag behövde ett aktuellt CV för framtida jobbansökan och kom till insikt att 
 # Hur man använder
 - Redigera template-filerna för att få till innehållet
 - Lägg till ett CSS-block { border: 1px solid red } på body-elementet för att ha en visuell A4-brytpunkt
+- Starta live-server i VS-code med template-filen så att Puppeteer har åtkomst till dokumentet genom URL:en
 - Navigera till mappen "puppeteer" och kör kommandot "node index.js" i terminalen för att bygga PDF:en
